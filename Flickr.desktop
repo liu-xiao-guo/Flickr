@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Flickr
+Exec=qmlscene $@ main.qml
+Icon=Flickr.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

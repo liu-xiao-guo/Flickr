@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of Flickr",
+    "framework": "ubuntu-sdk-14.10-dev2",
+    "hooks": {
+        "Flickr": {
+            "apparmor": "Flickr.apparmor",
+            "desktop": "Flickr.desktop"
+        }
+    },
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "name": "com.ubuntu.developer.liu-xiao-guo.flickr",
+    "title": "Flickr",
+    "version": "0.1"
+}
